@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# Knowledge Base Articles...
+Knowledge base articles using EDS
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: main--kbarticles--adobepartnertechnicalservices.hlx.page
+- Live: main--kbarticles--adobepartnertechnicalservices.hlx.live
 
 ## Installation
 

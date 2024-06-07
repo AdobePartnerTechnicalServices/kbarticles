@@ -2,8 +2,8 @@
 Knowledge base articles using EDS
 
 ## Environments
-- Preview: main--kbarticles--adobepartnertechnicalservices.hlx.page
-- Live: main--kbarticles--adobepartnertechnicalservices.hlx.live
+- Preview: https://main--kbarticles--adobepartnertechnicalservices.hlx.page
+- Live: https://main--kbarticles--adobepartnertechnicalservices.hlx.live
 
 ## Installation
 
